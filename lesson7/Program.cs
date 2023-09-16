@@ -83,7 +83,8 @@ int[] CountNumbersInCol(int[,] matrix ,int col)
         {
             result[i] += matrix[j, i];
         }
-        
+
+        result[i] =  result[i] / matrix.GetLength(0);
     }
 
     return result;
