@@ -1,0 +1,15 @@
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\obj\Debug\net7.0\lesson8.csproj.AssemblyReference.cache
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\obj\Debug\net7.0\lesson8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\obj\Debug\net7.0\lesson8.AssemblyInfoInputs.cache
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\obj\Debug\net7.0\lesson8.AssemblyInfo.cs
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\obj\Debug\net7.0\lesson8.csproj.CoreCompileInputs.cache
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\bin\Debug\net7.0\lesson8.exe
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\bin\Debug\net7.0\lesson8.deps.json
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\bin\Debug\net7.0\lesson8.runtimeconfig.json
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\bin\Debug\net7.0\lesson8.dll
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\bin\Debug\net7.0\lesson8.pdb
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\obj\Debug\net7.0\lesson8.dll
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\obj\Debug\net7.0\refint\lesson8.dll
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\obj\Debug\net7.0\lesson8.pdb
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\obj\Debug\net7.0\lesson8.genruntimeconfig.cache
+C:\Users\79776\OneDrive\Рабочий стол\Моя учеба\C#\lesson8\obj\Debug\net7.0\ref\lesson8.dll
